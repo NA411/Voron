@@ -1,6 +1,6 @@
 # Quad WAGO 221-412 V0 Under Bed Mount
-![Printed Part](Images/WagoHolder.png)
-![Installation](Images/Installed.jpg)
+![Printed Part](Images/InstalledFusion360WagoHolder.png)
+![Installation](Images/InstalledOnV0WagoHolder.jpg)
 ## Overview
 
 This holds 4 221-412 WAGO Mounts for cleaner AC wiring of the heated bed on the VO. It fits nicely into the recess between the two Rear Bed Mounts. It allows for quick replacing of the fuse should it ever need to be replaced or removing the bed. The bed thermistor wiring isn't included, so I used a MOLEX connector for that.
